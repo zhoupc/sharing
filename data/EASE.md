@@ -10,6 +10,7 @@ EASE extracts individual neurons from calcium imaging (CI) data by combining den
 
 
 **data description** 
+Download the [Data folder](https://www.dropbox.com/sh/yunmd6o4q1iwc17/AAAZCoH7ih6l6o6ZNAZONeyXa?dl=0) from Dropbox. 
 
 We currently only release 1 dataset 
 * pinky40: 4 scans; simultaneously recorded 3 planes in one scan; frame rate 14.8313 Hz; 
